@@ -10,4 +10,5 @@
   ![Java Badge](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white)
   
   ### Tools
-
+  ![](https://img.shields.io/badge/Xcode-147EFB?&style=flat-square&logo=Xcode&logoColor=white)
+  ![Swift Badge](https://img.shields.io/badge/IntelliJ-0071C5?&style=flat-square&logo=IntelliJIDEA&logoColor=black)
