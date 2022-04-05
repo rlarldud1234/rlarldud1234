@@ -3,9 +3,11 @@
   
   ## Skills
   ### Platforms & Languages
-  ![Apple Badge](https://img.shields.io/badge/IOS-000000?&style=flat-square&logo=Apple&logoColor=white)
+  ![Apple Badge](https://img.shields.io/badge/iOS-000000?&style=flat-square&logo=Apple&logoColor=white)
   ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?&style=flat-square&logo=Swift&logoColor=white)
   ![RxSwift Badge](https://img.shields.io/badge/RxSwift-EE3322?&style=flat-square&logo=Swift&logoColor=white)
+  ![RxCocoa Badge](https://img.shields.io/badge/RxCocoa-964B00?&style=flat-square&logo=Swift&logoColor=white)
+  ![Combine Badge](https://img.shields.io/badge/Combine-FFD400?&style=flat-square&logo=Swift&logoColor=white)
   ![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-2D2E83?&style=flat-square&logo=Swift&logoColor=white)
   ![Java Badge](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white)
   
