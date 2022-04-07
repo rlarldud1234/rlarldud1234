@@ -1,3 +1,6 @@
+<div align='center'>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&&section=header&text=GiYoung Github&fontSize=70&animation=twinkling" />
+</div>
 
   ## Github
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarldud1234&show_icons=true&theme=radical)
