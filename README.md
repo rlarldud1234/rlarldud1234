@@ -9,7 +9,7 @@
   
   ## Skills
   ### Platforms
-  ![Apple Badge](https://img.shields.io/badge/iOS-000000?&style=flat-square&logo=Apple&logoColor=white)=
+  ![Apple Badge](https://img.shields.io/badge/iOS-000000?&style=flat-square&logo=Apple&logoColor=white)
   
   ### Language
   ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?&style=flat-square&logo=Swift&logoColor=white)
@@ -20,4 +20,3 @@
   
   ### Tools
   ![](https://img.shields.io/badge/Xcode-147EFB?&style=flat-square&logo=Xcode&logoColor=white)
-  ![Swift Badge](https://img.shields.io/badge/IntelliJ-0071C5?&style=flat-square&logo=IntelliJIDEA&logoColor=white)
